@@ -1,0 +1,42 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    background: #000;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.main {
+    background: #000;
+}
+
+h1 {
+    color: #fff;
+}
+
+input {
+    border-color: #000 !important;
+    border-radius: 5px;
+    background-color: #000 !important;
+    color: #fff !important;
+}
+
+input:hover {
+    border-color: #fff !important;
+}
+
+label {
+    color: #fff;
+}
+
+::placeholder {
+    color: #fff !important;
+    font-weight: 100 !important;
+}
+
+.col div {
+    margin-top: 1.5rem !important;
+}
